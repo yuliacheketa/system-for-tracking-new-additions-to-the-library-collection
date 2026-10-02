@@ -1,9 +1,5 @@
 # Use case діаграма
 
-Проста діаграма прецедентів для системи обліку нових надходжень.
-
-## Діаграма
-
 ```mermaid
 flowchart LR
   Acq["Acquisitions Officer"]
