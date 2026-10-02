@@ -1,9 +1,5 @@
 # User stories
 
-Формат: Як [роль], я хочу [дію], щоб [отримати результат].
-
-Ролі взято з опису проєкту: Acquisitions Officer, Cataloger, Reader (Guest), Librarian, Administrator.
-
 ---
 
 ## US-1. Фіксація нового надходження
